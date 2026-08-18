@@ -1,0 +1,20 @@
+{
+  "name": "grunnlegendeprogrammering",
+  "version": "1.0.0",
+  "description": "Grunnlegende Programmering",
+  "homepage": "https://github.com/tobyjohansen/GrunnlegendeProgrammering#readme",
+  "bugs": {
+    "url": "https://github.com/tobyjohansen/GrunnlegendeProgrammering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyjohansen/GrunnlegendeProgrammering.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
